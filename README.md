@@ -8,6 +8,9 @@
 
 [ubuntu](http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3)
 
+OS X command line
+`ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
+
 ###package Control
 
 [install package control](https://packagecontrol.io/installation#st3)
