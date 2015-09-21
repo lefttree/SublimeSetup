@@ -167,3 +167,4 @@ For other plugins, you can refer to their github pages
     + Setup in MAC environment
 - [jikeytang/sublime-text](https://github.com/jikeytang/sublime-text)
 - [must have sublime text plugins](https://vinta.ws/code/must-have-sublime-text-packages.html)
+- [zhihu](http://www.zhihu.com/question/19976788)
